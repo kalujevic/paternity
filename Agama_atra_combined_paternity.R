@@ -14448,3 +14448,5 @@ rownames(out)[rownames(out) == "83"] = "AA204"
 # Write csv output with CPIs to file
 
 write.table(out, file = "Agama_atra_combined_paternity_fathers_new_MAF10.csv", sep=",", col.names = NA, row.names = TRUE)
+
+karla
